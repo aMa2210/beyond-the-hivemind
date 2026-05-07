@@ -84,19 +84,11 @@ python -m src.pipeline.step4_quality_scores    --model Qwen/Qwen2.5-14B-Instruct
 After `data/` is populated:
 
 ```bash
-python -m src.pipeline.plot_all_figs            # heatmaps (Figures 3–8 in paper)
-python -m src.pipeline.plot_fig_pca             # Figure 1 (PCA, cleanest prompt)
-python -m src.pipeline.plot_fig_pca --rank 2    # Figure 1 (second prompt)
+python -m src.pipeline.plot_all_figs          
+python -m src.pipeline.plot_fig_pca          
 ```
 
 Output PDFs are written to `figures/`. Reference outputs are committed there for comparison.
-
-## Diagnostics
-
-```bash
-python -m src.pipeline.check_fail_rate          # extraction failure rates per (model, config)
-python -m src.pipeline.analyze_candidate_tokens # average candidate count per decoding step
-```
 
 ## Repository layout
 
