@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling"
+authors:
+  - family-names: Fu
+    given-names: Tairan
+    affiliation: Politecnico di Milano
+  - family-names: Conde
+    given-names: Javier
+    affiliation: Universidad Politécnica de Madrid
+  - family-names: Arriaga
+    given-names: Carlos
+    affiliation: Universidad Politécnica de Madrid
+  - family-names: Martínez
+    given-names: Gonzalo
+    affiliation: Universidad Politécnica de Madrid
+  - family-names: Reviriego
+    given-names: Pedro
+    affiliation: Universidad Politécnica de Madrid
+  - family-names: Coronado-Blázquez
+    given-names: Javier
+    affiliation: Banco de España
+date-released: 2026-05-07
+license: MIT
+preferred-citation:
+  type: article
+  title: "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling"
+  authors:
+    - family-names: Fu
+      given-names: Tairan
+    - family-names: Conde
+      given-names: Javier
+    - family-names: Arriaga
+      given-names: Carlos
+    - family-names: Martínez
+      given-names: Gonzalo
+    - family-names: Reviriego
+      given-names: Pedro
+    - family-names: Coronado-Blázquez
+      given-names: Javier
+  year: 2026
