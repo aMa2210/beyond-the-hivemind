@@ -28,7 +28,7 @@ A CUDA GPU (≥ 24 GB recommended for 14B models) is required for response gener
 
 The raw generations, embeddings (text-embedding-3-small), and quality scores used in the paper are archived on Zenodo:
 
-> **Zenodo DOI**: *(to be added on release)*
+> **Zenodo DOI**: *https://doi.org/10.5281/zenodo.20075852*
 
 Download the archive and unpack it as `data/` at the repo root:
 ```
